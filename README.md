@@ -16,4 +16,4 @@ $ docker run -v $(pwd):/home/rime --rm -it rime-plus rime test
 
 ## References
 
-* [https://docs.google.com/spreadsheets/d/1X5Yk5PiGx-Otm1JaHpQQzQhEIPj8trofLTkphKX43s0/edit?usp=sharing](AtCoder 2016年2月言語更新)
+* [AtCoder 2016年2月言語更新](https://docs.google.com/spreadsheets/d/1X5Yk5PiGx-Otm1JaHpQQzQhEIPj8trofLTkphKX43s0/edit?usp=sharing)
