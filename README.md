@@ -11,7 +11,7 @@ $ docker build -t rime-plus rime-plus-docker
 
 ```
 $ cd /path/to/project
-$ docker run -v $PWD:/home/rime --rm -it rime-plus rime test
+$ docker run -v "$PWD":/home/rime -w /home/rime --rm -it rime-plus rime test -C -j 1
 ```
 
 ## References
